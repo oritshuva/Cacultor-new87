@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/openBrowserButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="open Browser"/>
+    <Button
+        android:id="@+id/makeCallButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="make call"
+        android:layout_marginTop="16dp"/>
+    <Button
+        android:id="@+id/shareTextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Share Text"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>
+
 <androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -7,39 +35,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="help me!"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-        android:textSize="34sp"
-       />
 
-    <ImageView
-        android:id="@+id/imageview_egg"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="knock"
-        app:srcCompat="@drawable/pic1aggapp"
-        />
-
-    <TextView
-        android:id="@+id/textview_counter"
-        android:layout_width="107dp"
-        android:layout_height="85dp"
-        android:text="10"
-        android:textSize="48sp"
-        tools:layout_editor_absoluteY="479dp" />
-
-    <Button
-        android:id="@+id/reset"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@color/black"
-        android:onClick="rest"
-        android:text="reset"
-        tools:layout_editor_absoluteY="585dp" />
 
 
 

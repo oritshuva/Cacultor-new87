@@ -37,12 +37,12 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 5,
-      "lastUsed": 1729929884618
+      "usageCount": 6,
+      "lastUsed": 1730120820999
     },
     "XML": {
-      "usageCount": 6,
-      "lastUsed": 1729929885121
+      "usageCount": 7,
+      "lastUsed": 1730120821473
     },
     "Image": {
       "usageCount": 3,
@@ -66,10 +66,10 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="5" lastUsage="1729929884622" />
+      <summary usageCount="6" lastUsage="1730120821000" />
     </language>
     <language id="XML">
-      <summary usageCount="6" lastUsage="1729929885121" />
+      <summary usageCount="7" lastUsage="1730120821473" />
     </language>
   </component>
   <component name="ProjectView">
@@ -114,8 +114,8 @@
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32123342" />
-      <window_info id="Commit" order="1" weight="0.32123342" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32123342" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.32142857" />
       <window_info id="Resources Explorer" order="2" weight="0.32123342" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -134,7 +134,7 @@
       <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25019515" />
       <window_info anchor="right" id="Running Devices" order="4" weight="0.25019515" />
       <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
-      <unified_weights bottom="0.8521545" left="0.32123342" right="0.25019515" />
+      <unified_weights bottom="0.8521545" left="0.32142857" right="0.25019515" />
     </layoutV2>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" weight="0.32123342" />
@@ -160,8 +160,8 @@
       <unified_weights bottom="0.3306092" left="0.32123342" right="0.25019515" />
     </layout-to-restore>
     <recentWindows>
-      <value>Project</value>
       <value>Commit</value>
+      <value>Project</value>
       <value>Resources Explorer</value>
       <value>Device Manager 2</value>
       <value>Running Devices</value>
@@ -176,10 +176,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="226" y="10" width="828" height="653" key="#com.android.tools.idea.streaming.emulator.dialogs.ManageSnapshotsDialog/0.0.1280.672@0.0.1280.672" timestamp="1727356804836" />
-    <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1729930087368">
+    <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1729930979915">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1729930087368" />
+    <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1729930979915" />
     <state x="443" y="51" key="RollbackChangesDialog" timestamp="1727353392270">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
