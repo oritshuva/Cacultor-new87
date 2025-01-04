@@ -709,9 +709,19 @@
   </component>
   <component name="ProcessedFilesStorage">
     <timestamps>
-      <entry key="abd59ba639888266f1bfd34aec67e991" value="1735318010577" />
-      <entry key="e10513b842804d7a9ea9bdd681d5a6f1" value="1735318045537" />
+      <entry key="7816fb258d9791a3d91680f7652b4d60" value="1736004613061" />
+      <entry key="7eb3d33df6f79fcdb4631a5941287c99" value="1736004820596" />
+      <entry key="dc21548c2ec932e81dbf0d7c984a792e" value="1736004542021" />
+      <entry key="e10513b842804d7a9ea9bdd681d5a6f1" value="1736004536289" />
     </timestamps>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="1689" />
+    <option name="indexTimeByRoot">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1689" />
+      </map>
+    </option>
   </component>
   <component name="sourceFolderManager">
     <sourceFolders>
